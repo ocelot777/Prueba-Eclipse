@@ -2,7 +2,7 @@
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("Probando GitHub");
+		System.out.println("Esto es una modificacion del archivo..");
 	}
 
 }
